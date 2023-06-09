@@ -14,7 +14,7 @@ saransh kumar
 1.Introduction
 Document Purpose: To detect if the person is suffering from diabetes using glucose and blood pressure as features and Diabetes as label.
 
-https://github.com/github/AS_AI_ML/blob/assets/unnamed.png
+https://github.com/github/AS_AI_ML/unnamed.png
 
 
 Product Scope: helps to check if a person has diabetics
