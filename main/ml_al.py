@@ -135,7 +135,7 @@ import pandas as pd
 from sklearn.naive_bayes import GaussianNB
 from sklearn.tree import DecisionTreeClassifier
 
-df = pd.read_csv("/content/diabetes_1_05_06.csv")
+df = pd.read_csv("diabetes_1_05_06.csv")
 
 # Create a DataFrame with the user input
 user_data = pd.DataFrame({
