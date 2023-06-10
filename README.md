@@ -54,8 +54,8 @@ The Diabetes Detection System is designed for healthcare professionals, research
 2.4 Operating Environment
 The system should be compatible with the following:
 
-Operating System: [Specify the supported operating systems]
-Hardware Requirements: [Specify the minimum hardware requirements]
+Operating System: NA
+Hardware Requirements: na
 2.5 Design and Implementation Constraints
 The system should be implemented using Python programming language.
 Required Python packages: numpy, pandas, scikit-learn.
@@ -160,7 +160,7 @@ The system testing will be conducted according to the following schedule:
 
 Start Date: 03/06/2023
 End Date: 07/06/2023
-Test Execution Time: [Specify the estimated time for test execution]
+Test Execution Time:
 10. Test Risks and Mitigation
 The potential risks associated with system testing are:
 
